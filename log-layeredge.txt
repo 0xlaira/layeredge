@@ -545,3 +545,8 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [11:16:35 | 14-03-2025] ✅ Node started for 0xe86CB6612Cc17a6901DD7a1f7095c97E4F62A89D
+[15:17:56 | 14-03-2025] Wallet Address: 0xe86CB6612Cc17a6901DD7a1f7095c97E4F62A89D
+[15:17:56 | 14-03-2025] Node Points: 599957
+[15:17:56 | 14-03-2025] Last Claim Point: 13/03/2025 01:06:32
+[15:17:57 | 14-03-2025] ✅ Points claimed for 0xe86CB6612Cc17a6901DD7a1f7095c97E4F62A89D
+[15:17:57 | 14-03-2025] 🚨 Failed to start node for 0xe86CB6612Cc17a6901DD7a1f7095c97E4F62A89D: [object Object]
